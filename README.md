@@ -28,7 +28,7 @@ Este projeto é desenvolvido como parte do TCC em **Análise e Desenvolvimento d
 * Código aberto (Open Source) para ajudar pequenos negócios locais.
 
 ## 🤝 Cliente Piloto
-**Brasinha Rotisseria** - Sorocaba/SP.
+**Brasinha Rotisseria** - Ibiúna/SP.
 
 ---
 *Desenvolvido com ☕ por [Murilo Costa Garbo](https://github.com/garbomurilo) e [Vinicius Holtz de Oliveira](https://github.com/vHOLTZv)*
